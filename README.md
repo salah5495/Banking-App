@@ -5,7 +5,8 @@ There is also Request loan feature where user can borrow loan
 Lastly there is close account feature where user can deactivate their account
 
 ## Logins
-You can use the following user account and pin as the application requires you to login
+You can use the following user account and pin as the application requires you to login:
+** 
 1 Username: 'as' 
   PIN: 1111
 2 Username: 'ak'
