@@ -6,4 +6,7 @@ Lastly there is close account feature where user can deactivate their account
 
 ## Logins
 You can use the following user account and pin as the application requires you to login
-* Username: as PIN: 1111
+1* Username: as 
+* PIN: 1111
+2* Username: aK 
+* PIN:2222
