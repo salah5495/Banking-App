@@ -1,1 +1,2 @@
 # Simple Banking App
+## Features:
