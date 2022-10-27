@@ -1,6 +1,6 @@
 # Simple Banking App
 ## Features:
-The App has the following features the first part is transfer feature where a user can transfer  amount from their account to another user
+The App has  following features the first part is transfer feature where a user can transfer  amount from their account to another user
 There is also Request loan feature where user can borrow loan
 Lastly there is close account feature where user can deactivate their account
 
