@@ -1,4 +1,4 @@
-'use strict';
+
 
 const account1 = {
   owner: 'Abdullahi Salah',
