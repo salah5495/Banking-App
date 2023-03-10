@@ -3,7 +3,7 @@
 const account1 = {
   owner: 'Abdullahi salah',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
-  interestRate: 1.2, // %
+  interestRate: 1.2,
   pin: 1111,
 
   movementsDates: [
@@ -139,7 +139,6 @@ const calcDisplaySummary = function (acc) {
     .filter(mov => mov > 0)
     .map(deposit => (deposit * acc.interestRate) / 100)
     .filter((int, i, arr) => {
-      // console.log(arr);
       return int >= 1;
     })
     .reduce((acc, int) => acc + int, 0);
